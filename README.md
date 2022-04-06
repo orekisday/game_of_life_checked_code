@@ -1,9 +1,9 @@
 # game_of_life_checked_code
 the code is checked, and don't gave any errors:
 
-<img width="1440" alt="Screen Shot 2022-04-06 at 1 31 58 PM" src="https://user-images.githubusercontent.com/100344808/161920237-ac0b9537-0944-482b-b766-28898acf3a39.png">
+<img width="1021" alt="Screen Shot 2022-04-06 at 1 31 58 PM" src="https://user-images.githubusercontent.com/100344808/161924086-875221b8-0788-45a8-8cc7-ae5deec68197.png">
 
-preview of the game:
+preview of the game, and overview of what I described below:
 
 <img width="511" alt="Screen Shot 2022-04-06 at 10 24 10 AM" src="https://user-images.githubusercontent.com/100344808/161920389-edf270a1-d925-444b-b10a-8a3223601857.png">
 
