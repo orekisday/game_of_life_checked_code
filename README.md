@@ -1,5 +1,5 @@
 # game_of_life_checked_code
-the code is checked, and don't gave any errors:
+the code is checked, and don't have any errors:
 
 <img width="1021" alt="Screen Shot 2022-04-06 at 1 31 58 PM" src="https://user-images.githubusercontent.com/100344808/161924086-875221b8-0788-45a8-8cc7-ae5deec68197.png">
 
