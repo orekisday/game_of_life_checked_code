@@ -22,7 +22,7 @@ class GameOfLife(tk.Tk):
 
         # creating the canvas and adding to tkinter
         self.canvas = Canvas(
-            self, width=self.canvas_size, height=self.canvas_size, bg='yellow'
+            self, width=self.canvas_size, height=self.canvas_size, bg='#FFFACD'
         )
         self.canvas.pack()
 
@@ -84,12 +84,12 @@ class GameOfLife(tk.Tk):
     # so, don't judge me for that :p
     def draw_square_like_shape(self, y, x, size):
         self.canvas.create_rectangle(
-            x, y, x + size / 2, y + size, fill='grey', outline='grey'
+            x, y, x + size / 2, y + size, fill='#9999ff', outline='#9999ff'
         )
 
     def draw_square(self, a, b, size):
         self.canvas.create_rectangle(
-            a, b, a + size, b + size, fill='green', outline='green'
+            a, b, a + size, b + size, fill='#99d6ff', outline='#99d6ff'
         )
 
     def run_generation(self):
